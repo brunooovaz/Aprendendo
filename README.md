@@ -1,12 +1,13 @@
-### Markdown
+# Aprendendo a usar as ferramentas de programação
+## Markdown
 - Perguntas:
   - Como usar?
   - Para que serve?
 - Respostas:
-  - Utilizando *, - e #
+  - Utilizando \*, - e \#
   - Para marcações de texto, títulos, sutítulos e etc.
 
-### Github
+## Github
 - Perguntas:
   - Como usar?
   - Para que serve?
@@ -16,7 +17,7 @@
   - Rastreamento de atualizações de documentos
   - ?
 
-### Atom
+## Atom
 - Perguntas:
   - Como usar?
   - Para que serve?
@@ -26,7 +27,7 @@
   - Organizar ideias e reunir tudo em uma ferramenta só
   - ?
 
-### Fountain
+## Fountain
 - Perguntas:
   - Como usar?
   - Para que serve?
